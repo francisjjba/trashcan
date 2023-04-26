@@ -1,0 +1,10 @@
+Pip install Django
+Pip install pillow
+pip install django-pwa
+python manage.py runserver
+
+
+
+
+admin 
+pass:1234
